@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Motto: Most likely there is someone more proficient than you in any field. Follow them!
+
 <!--
 **durmazemre/durmazemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
