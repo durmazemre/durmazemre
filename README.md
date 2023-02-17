@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on Programmable Dataplanes
 - 🌱 I’m currently learning P4
+- 📫 How to reach me: drop me an email at: emre.durmaz@hhi.fraunhofer.de
+- 😄 Pronouns: He / Him
 - 📚 I am reading these days: Sapiens: A Brief History of Humankind, Homo Deus - Yuval Noah Harari
 
 <!--
@@ -14,8 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He / Him
+
 
 - ⚡ Fun fact: ...
 -->
